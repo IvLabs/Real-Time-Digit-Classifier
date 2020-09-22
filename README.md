@@ -1,6 +1,5 @@
 
 # Real Time Digit Classifier
-##### Summer Project 2019
 
 <p align = "center">
  <img width = "460" height = "300" src = "https://github.com/IvLabs/Real-Time-Digit-Classifier/blob/master/Demos%20and%20Plots/Real%20Time%20Half%20Demo.gif">
