@@ -66,6 +66,6 @@ The trained model was then stored to a local directory.
 <br><br><br>
 <br>
 *The Full Demo has been uploaded <a href = "https://github.com/IvLabs/Real-Time-Digit-Classifier/blob/master/Demos%20and%20Plots/Real%20Time%20Full%20Demo.mp4">here.</a>
-References and aiding articles can be found in the <a href = "https://docs.google.com/document/d/1FpmhtFRAo3IJ94NWfQqjc38tlslT47FlybiaOEYPe3k/edit?usp=sharing">Documentation</a> provided. <br>Further specifications with results are available on the <a href = "https://www.ivlabs.in/mnist.html">Project Website</a>.*
+<br>References and aiding articles can be found in the <a href = "https://docs.google.com/document/d/1FpmhtFRAo3IJ94NWfQqjc38tlslT47FlybiaOEYPe3k/edit?usp=sharing">Documentation</a> provided. <br>Further specifications with results are available on the <a href = "https://www.ivlabs.in/mnist.html">Project Website</a>.*
 
 
